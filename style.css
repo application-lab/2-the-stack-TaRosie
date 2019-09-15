@@ -3,8 +3,9 @@ body {
 }
 
 h{
-  color: yellow;
+  color: orange;
   font-size: 50px;
+  text-align: center;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -13,7 +14,7 @@ h1,h2,h3,h4,h5,h6 {
   font-size: 30px;
 }
 
-#heading, img{
+img{
   width: 200px;
   display: block;
   margin-left: auto;
@@ -25,5 +26,14 @@ h1,h2,h3,h4,h5,h6 {
   background: white;
    padding: 100px;
   margin: 100px;
+}
+
+#heading
+{   width: 200px;
+  margin-top: 30px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
   
