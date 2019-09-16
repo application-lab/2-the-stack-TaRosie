@@ -3,15 +3,16 @@ body {
 }
 
 h{
-  color: orange;
+  color: orangered;
   font-size: 50px;
   text-align: center;
+  font-family: fantasy ;
 }
 
 h1,h2,h3,h4,h5,h6 {
   color: black;
-  text-align: center;
-  font-size: 30px;
+  /* text-align: center; */
+  font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 img{
@@ -24,16 +25,17 @@ img{
 
 #main{
   background: white;
-   padding: 100px;
-  margin: 100px;
+   padding: 30px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 #heading
-{   width: 200px;
-  margin-top: 30px;
+{   width: 40px;
+  margin: 30px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 50%;
 }
   
